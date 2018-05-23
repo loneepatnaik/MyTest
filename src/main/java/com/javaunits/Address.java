@@ -14,7 +14,7 @@ public class Address {
 	public void setVillage(String village) {
 		this.village = village;
 	}
-
+//Hi
 	public String getDist() {
 		return dist;
 	}
