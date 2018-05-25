@@ -26,7 +26,7 @@ public class Address {
 	public String getPin() {
 		return pin;
 	}
-
+//set the pin
 	public void setPin(String pin) {
 		this.pin = pin;
 	}
